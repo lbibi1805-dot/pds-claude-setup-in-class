@@ -1,0 +1,7 @@
+# Logs and local scratch
+*.log
+*.tmp
+.vscode/
+.claude/settings.local.json
+Thumbs.db
+desktop.ini
